@@ -1,4 +1,4 @@
-# JavaScript Practice Repository
+# Rubicon
 
 Welcome to my JavaScript practice repository! 👩‍💻👨‍💻  
 I've been stuck on JavaScript for a long time, and I think it's time to apply myself seriously. This repo is dedicated to my journey of mastering JavaScript through consistent practice, projects, and challenges.
