@@ -41,7 +41,7 @@ Feel free to explore the files in this repo. Each folder or file will have comme
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/javascript-practice.git
+git clone https://github.com/OsuwakeEdet/Rubicon.git
 
 # Navigate to the project folder
-cd javascript-practice
+cd Rubicon
