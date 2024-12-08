@@ -34,7 +34,7 @@ This repository will contain:
 
 🌟 Follow my journey and feel free to give this repo a ⭐ if it helps or inspires you!
 
-##🔖 Author
+## 🔖 Author
 Emana Osuwake Edet
 Frontend Developer | Software Engineering Student | Aspiring Full-Stack Developer
 
