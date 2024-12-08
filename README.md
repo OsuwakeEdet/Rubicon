@@ -13,6 +13,7 @@ This repository will contain:
 ## 🛠️ Technologies and Tools
 - **JavaScript** (Vanilla JS to start with, gradually moving to advanced concepts)
 - **Node.js** (as I advance in my learning)
+- **React.js** (as I advance in my learning)
 - Tools: Code editor (e.g., VS Code), Git, and browser dev tools.
 
 ## 🌱 Goals
@@ -20,6 +21,7 @@ This repository will contain:
 2. Build a strong foundation in JavaScript fundamentals.
 3. Work on real-world projects to apply what I learn.
 4. Prepare for becoming a competent full-stack developer.
+5. Dive into the MERN stack
 
  ## 🧭 Progress
  Basics: Variables, Functions, Loops, and Conditionals
