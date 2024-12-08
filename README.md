@@ -36,6 +36,7 @@ This repository will contain:
 
 ## 🔖 Author
 Emana Osuwake Edet
+
 Frontend Developer | Software Engineering Student | Aspiring Full-Stack Developer
 
 ## 🔗 How to Use
