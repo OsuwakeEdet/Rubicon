@@ -26,7 +26,18 @@ console.log(course);
 // is called a propery of the object 'course' declared in line 17
 
 // Accessing Key-Value Pair
-// you can access key pairs in an obj
+// you can access key pairs in an object using two differrent notation:
+// 1. DOT NOTATION 👇
+console.log(course.name); // this outputs the value of the key called name
+course.name = "JavaScript Fundamentals"; // this changes the value of the name key 
+
+// 2. BRACKET NOTATION
+console.log(course['name']); // this outputs the value of the key called name
+course['name'] = "JavaScript 101";
+console.log(course['name']);
+
+let identity = "name";
+console.log(course['identity']); // since identity is assigned to name, JavaScript sees it as console.log(course['name']), because identity = "name";
 
 
 
