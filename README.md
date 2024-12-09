@@ -42,9 +42,12 @@ Frontend Developer | Software Engineering Student | Aspiring Full-Stack Develope
 ## 🔗 How to Use
 Feel free to explore the files in this repo. Each folder or file will have comments and notes explaining the logic behind the code. If you're also learning JavaScript, you're welcome to clone this repo and practice along!
 
-```bash
-# Clone the repo
-git clone https://github.com/OsuwakeEdet/Rubicon.git
 
+# Clone the repo
+```bash
+git clone https://github.com/OsuwakeEdet/Rubicon.git
+```
 # Navigate to the project folder
+```bash
 cd Rubicon
+```
