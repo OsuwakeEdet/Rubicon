@@ -1,5 +1,5 @@
 // Arrays are a data structure used to store a list of data, we use square bracket to create an array literal 
-let productColors = ['blue'. 'green', 'yellow', 'white', 'black', 'red', 'orange', 'indigo', 'violet'];
+let productColors = ['blue', 'green', 'yellow', 'white', 'black', 'red', 'orange', 'indigo', 'violet'];
 console.log(productColors);
 
 // we can use bracket notation and get an element of the array by the index

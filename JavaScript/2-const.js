@@ -8,7 +8,7 @@ console.log(CHRISTMAS_2024);
 // AND YOU HAVE TO SEPERATE EACH WORD WITH AN UNDERSCORE e.g
 
 const COLOR_GREEN = "green";
-
+console.log(COLOR_GREEN);
 // the "const" keyword is used for variables whose values can never be changed or reassigned throughout the program
 // note: IF YOU TRY TO REASSIGN A VARIABLE WITH THE CONST KEYWORD, IT WILL GIVE AN ERROR MESSAGE
 // note: GIVE YOUR VARIABLES DESCRIPTIVE BUT SHORT NAMES TO PROVIDE CONTEXT

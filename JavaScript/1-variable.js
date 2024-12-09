@@ -9,18 +9,18 @@ console.log(secondName);
 // VARIABLE DECLARATION
 var thirdName;
 let fourthName;
-console.log();
-console.log();
+console.log(thirdName);
+console.log(fourthName);
 
 // VARIABLE ASSIGNMENT
 //  "=" is the assignment operator
 thirdName = 'Greg';
 fourthName = 'Universe';
-console.log();
-console.log();
+console.log(thirdName);
+console.log(fourthName);
 // THE VALUES OF VARIABLES CAN BE CHANGED BY ASSIGNNING A NEW VALUE
 thirdName = 'Steven';
-console.log();
+console.log(thirdName);
 // NOW THE VALUE OF THE VARIABLE "thirdName" HAS CHANGED FROM 'Greg' TO 'Steven'
 
 

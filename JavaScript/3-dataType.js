@@ -21,10 +21,10 @@ let lovesCoding = true;
 
 // undefined data type is given to variables that aren't initialized
 let favoriteColor;
-console.log(favoriteColor); // this will output undefined in the terminal
+// console.log(favoriteColor);  this will output undefined in the terminal
 
 // we use null to explicitly clear the value of a variable 
-favoriteIceCream = null;
+favoriteIceCream = null;// null is seen as an object in console.log
 
 // symbols are used to create unique identifiers
 const uniquekey = Symbol();
@@ -38,12 +38,14 @@ let course = { // the curly braces defines an object literal
 // the object data types enables one to create more complex structures
 
 // we an use the typeof operator in JS to in order to return the data type of the operand or variable
-typeof course;
-typeof favoriteIceCream; // it returns object
-typeof uniquekey;
-typeof "favoriteColor";
-typeof lovesCoding;
-typeof 10n;
+
+console.log(typeof course);
+console.log(typeof favoriteIceCream);
+console.log(typeof uniquekey);
+console.log(typeof "favoriteColor");
+console.log(typeof lovesCoding);
+console.log(typeof 10n);
+
   
 
 
