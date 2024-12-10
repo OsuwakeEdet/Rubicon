@@ -11,6 +11,6 @@ console.log( multiply(2, 34) );
 
 function beMultiplied(num1, num2) {
     const perform =  num1 * num2;
-}
+}zzz
 
 console.log( beMultiplied(2, 34) ); 
