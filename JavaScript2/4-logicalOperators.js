@@ -32,3 +32,17 @@ let a = true,
   d = true;
 console.log((a && b) || (c && d));
 console.log(a && b) || (c && d);
+
+console.log(!true); // returns false
+console.log(!false); // returns true
+
+let isClosedOnSunday = true;
+const isResturnautOpen = !isClosedOnSunday;
+console.log(isResturnautOpen);
+
+// null coalescing operator ??
+// How It Works
+// If value1 is not null or undefined, the operator returns value1.
+
+let k = null;
+const result = k ?? false;
